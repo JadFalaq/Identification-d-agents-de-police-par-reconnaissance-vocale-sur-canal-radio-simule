@@ -1,0 +1,99 @@
+# ========================================
+# Python
+# ========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.pyc
+
+# ========================================
+# Virtual Environment
+# ========================================
+venv/
+venv_speaker_recognition/
+env/
+ENV/
+.venv
+
+# ========================================
+# Jupyter Notebook
+# ========================================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ========================================
+# IDE / Editors
+# ========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ========================================
+# Modèles entraînés (fichiers volumineux)
+# ========================================
+*.pkl
+*.joblib
+*.h5
+*.pth
+*.pt
+*.onnx
+*.pb
+
+# ========================================
+# Datasets et fichiers audio (trop volumineux)
+# ========================================
+*.wav
+*.mp3
+*.flac
+*.ogg
+dataset/
+data/
+samples/
+audio_files/
+vox_celeb/
+VoxCeleb1/
+VoxCeleb2/
+
+# ========================================
+# CSV et fichiers de données générés
+# ========================================
+*.csv
+dataset_*.csv
+features_*.csv
+metadata.csv
+
+# Exceptions : garder les petits CSV de config
+!config.csv
+!agents_list.csv
+
+# ========================================
+# Fichiers temporaires
+# ========================================
+temp_*
+tmp_*
+*.tmp
+*.log
+*.cache
+test.py
+
+# ========================================
+# OS
+# ========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ========================================
+# Git
+# ========================================
+.gitignore~
+
