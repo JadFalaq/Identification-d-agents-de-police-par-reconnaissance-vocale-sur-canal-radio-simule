@@ -1,0 +1,57 @@
+AGENTS SÉLECTIONNÉS POUR LE SYSTÈME DE RECONNAISSANCE RADIO
+============================================================
+
+Nombre d'agents: 50
+Total échantillons: 14910
+
+Liste des agents:
+  id10096      -  656 échantillons
+  id10020      -  589 échantillons
+  id10397      -  426 échantillons
+  id10203      -  401 échantillons
+  id10343      -  381 échantillons
+  id10428      -  364 échantillons
+  id10582      -  356 échantillons
+  id10242      -  343 échantillons
+  id10326      -  342 échantillons
+  id10539      -  339 échantillons
+  id10393      -  330 échantillons
+  id10168      -  317 échantillons
+  id10105      -  316 échantillons
+  id10248      -  314 échantillons
+  id10583      -  311 échantillons
+  id10352      -  310 échantillons
+  id10560      -  303 échantillons
+  id10520      -  299 échantillons
+  id10104      -  297 échantillons
+  id10045      -  295 échantillons
+  id10107      -  290 échantillons
+  id10571      -  286 échantillons
+  id10525      -  285 échantillons
+  id10148      -  283 échantillons
+  id10357      -  280 échantillons
+  id10564      -  275 échantillons
+  id10061      -  270 échantillons
+  id10018      -  269 échantillons
+  id10254      -  265 échantillons
+  id10317      -  265 échantillons
+  id10419      -  263 échantillons
+  id10252      -  259 échantillons
+  id10540      -  258 échantillons
+  id10443      -  254 échantillons
+  id10362      -  254 échantillons
+  id10016      -  253 échantillons
+  id10044      -  253 échantillons
+  id10361      -  250 échantillons
+  id10321      -  248 échantillons
+  id10423      -  248 échantillons
+  id10197      -  245 échantillons
+  id10130      -  243 échantillons
+  id10355      -  236 échantillons
+  id10083      -  232 échantillons
+  id10376      -  232 échantillons
+  id10170      -  229 échantillons
+  id10535      -  226 échantillons
+  id10486      -  224 échantillons
+  id10399      -  223 échantillons
+  id10484      -  223 échantillons
