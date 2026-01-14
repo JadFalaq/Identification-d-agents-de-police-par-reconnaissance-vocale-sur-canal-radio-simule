@@ -109,8 +109,8 @@ start_time = time.time()
 
 model = SVC(
     kernel='rbf',
-    C=20,
-    gamma=0.005,
+    C=33,
+    gamma=0.0045,
     random_state=42,
     verbose=False
 )
